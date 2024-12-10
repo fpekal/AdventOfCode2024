@@ -113,7 +113,7 @@ long long part2(std::vector<int> input) {
 int main() {
 	auto input = parse_input();
 
-	//std::cout << part1(input) << '\n';
+	std::cout << part1(input) << '\n';
 	std::cout << part2(input) << '\n';
 
 }
